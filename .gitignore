@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+runs/
+*.pt
+*.pth
+# datasets and noise recordings are downloaded / provided by the user
+hast/data/speech_commands_v0.02*
+hast/data/datafiles/
+honk/data/speech_commands
+data/NoiseX-92/*.wav

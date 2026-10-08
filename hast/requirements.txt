@@ -1,0 +1,6 @@
+torch>=2.0
+torchaudio
+timm==0.4.5
+numpy
+scikit-learn
+git+https://github.com/ml-jku/hopfield-layers.git@f56f929
